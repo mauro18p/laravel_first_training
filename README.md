@@ -1,6 +1,8 @@
 # Laravel Bug-Fixing & CRUD Reference Guide
 
 > A practical reference built from real hands-on debugging exercises.
+> First part is about all the things I did.
+> Second part is for things that I can encounter
 > Use this guide whenever you encounter broken routes, forms, controllers, or database interactions in a Laravel application.
 
 ---
